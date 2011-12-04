@@ -1,0 +1,15 @@
+An android widget to display Eternal Lands game time and 
+day status.  Eternal Lands is a free MMORPG with an open
+source client and builds provided for Linux, Mac and Windows.
+http://www.eternal-lands.com/
+
+The widget uses information from Trinitybot here:
+http://trinity.el-bots.zapto.org/
+
+It was inspired by bluap's similar applet for Gnome: 
+https://launchpad.net/el-time-applet.
+
+A binary down load is available here:
+http://twinmoons.org.uk/android/EL%20Time.apk
+
+Copyright (C) 2010 Usl of >FA<
